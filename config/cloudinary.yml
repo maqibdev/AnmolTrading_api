@@ -1,0 +1,11 @@
+development: 
+  cloud_name: "dicoyqibn"
+  api_key: "825298111744921"
+  api_secret: "CM1_2zraZ_msfP-RgbCCWx3pbKg"
+  secure: true
+
+production:
+  cloud_name: "dicoyqibn"
+  api_key: "825298111744921"
+  api_secret: "CM1_2zraZ_msfP-RgbCCWx3pbKg"
+  secure: true
